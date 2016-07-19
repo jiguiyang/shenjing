@@ -1,0 +1,2 @@
+# shenjing
+spring boot框架实现神经网络预测，调用R语言相关模型，使用Thymeleaf模板引擎，结合Echart和Easyui进行可视化
